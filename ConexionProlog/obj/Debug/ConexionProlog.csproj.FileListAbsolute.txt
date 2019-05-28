@@ -1,0 +1,12 @@
+R:\Proyectos Programacion\C#\ConexionProlog\ConexionProlog\bin\Debug\ConexionProlog.exe.config
+R:\Proyectos Programacion\C#\ConexionProlog\ConexionProlog\bin\Debug\ConexionProlog.exe
+R:\Proyectos Programacion\C#\ConexionProlog\ConexionProlog\bin\Debug\ConexionProlog.pdb
+R:\Proyectos Programacion\C#\ConexionProlog\ConexionProlog\obj\Debug\ConexionProlog.csprojAssemblyReference.cache
+R:\Proyectos Programacion\C#\ConexionProlog\ConexionProlog\obj\Debug\ConexionProlog.Properties.Resources.resources
+R:\Proyectos Programacion\C#\ConexionProlog\ConexionProlog\obj\Debug\ConexionProlog.csproj.GenerateResource.cache
+R:\Proyectos Programacion\C#\ConexionProlog\ConexionProlog\obj\Debug\ConexionProlog.csproj.CoreCompileInputs.cache
+R:\Proyectos Programacion\C#\ConexionProlog\ConexionProlog\obj\Debug\ConexionProlog.csproj.CopyComplete
+R:\Proyectos Programacion\C#\ConexionProlog\ConexionProlog\obj\Debug\ConexionProlog.exe
+R:\Proyectos Programacion\C#\ConexionProlog\ConexionProlog\obj\Debug\ConexionProlog.pdb
+R:\Proyectos Programacion\C#\ConexionProlog\ConexionProlog\bin\Debug\SwiPlCs.xml
+R:\Proyectos Programacion\C#\ConexionProlog\ConexionProlog\obj\Debug\ConexionProlog.frmMain.resources
